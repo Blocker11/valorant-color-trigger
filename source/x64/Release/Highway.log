@@ -1,0 +1,8 @@
+﻿  helper.c
+  main.c
+C:\Users\fi\Downloads\Valo_tb\source\helper.c(31,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Highway.vcxproj -> C:\Users\fi\Downloads\Valo_tb\x64\Release\Highway.exe
