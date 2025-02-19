@@ -1,5 +1,4 @@
-Color Trigger - C#
-GitHub Telegram
+Color Trigger - C++
 
 Color Trigger - is a simple utility program written in C# that allows you to perform an action when a change in color is detected at the cursor's position. This can be useful for automating tasks or interactions in applications or games where color changes signify specific events.
 
